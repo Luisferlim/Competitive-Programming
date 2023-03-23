@@ -1,7 +1,6 @@
 #include <iostream>
 //preparacao para a maratona de progamacao 2023.1
 
-
 using namespace std;
 
 int main()
@@ -13,10 +12,7 @@ int main()
     //verificacao de parada
     while (V != 0)
     {
-        i = 0,
-        j = 0,
-        k = 0,
-        l = 0;
+        i = 0, j = 0, k = 0, l = 0;
         //para nao dar problema no loop
         
         //algoritmo para separar as notas
